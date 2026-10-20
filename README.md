@@ -77,3 +77,21 @@ For hate speech detection, the proposed **1D-CNN-LSTM-GRU** architecture success
    ```bash
    git clone [https://github.com/your-username/BFFSH-Dataset-Analysis.git](https://github.com/your-username/BFFSH-Dataset-Analysis.git)
    cd BFFSH-Dataset-Analysis
+
+
+## 📖 Citation
+
+If you use our dataset or methodology in your research, please cite our paper:
+
+```bibtex
+@inproceedings{bangla_cyberbullying_2026,
+  title={BFFSH-Dataset: Sentiment Analysis and Hate Speech Detection of Bangladeshi Football Fans’ Comments},
+  author={[Author Names]},
+  booktitle={IEEE [Conference Name]},
+  year={2026}
+}
+```
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
