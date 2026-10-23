@@ -69,16 +69,10 @@ For hate speech detection, the proposed **1D-CNN-LSTM-GRU** architecture success
 ## 🚀 Getting Started
 
 ### Prerequisites
-* Python 3.8+
+* Python 3+
 * TensorFlow / Keras 2.x
 * Scikit-learn
 * Pandas & NumPy
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/BFFSH-Dataset-Analysis.git](https://github.com/your-username/BFFSH-Dataset-Analysis.git)
-   cd BFFSH-Dataset-Analysis
 
 
 ## 📖 Citation
