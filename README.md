@@ -3,6 +3,8 @@
 [![Paper](https://img.shields.io/badge/Paper-IEEE-blue.svg)](#) <!-- Add link to paper when published -->
 [![Dataset](https://img.shields.io/badge/Dataset-BFFSH-orange.svg)](#) 
 
+#### Note: This dataset will be made publicly available upon the paper's publication (currently under peer review).
+
 This repository contains the official dataset, preprocessing scripts, and deep learning models for the paper: **"BFFSH-dataset: A Dataset for Sentiment Analysis and Hate Speech Detection of Bangladeshi Football Fans’ Comments on the FIFA World Cup 2026."**
 
 ## 📖 Overview
